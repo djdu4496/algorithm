@@ -1,6 +1,8 @@
 # 코딩테스트 준비 
 
-프로그래머스 고득점 Kit `2022~`
+`📝` : 기술 블로그(Blog),  `🧑🏻‍💼` : 코.테 연습 영상(Youtube)
+
+## 프로그래머스 고득점 Kit `2022~`
 
 Lv.1
 - [x] [완주하지 못한 선수](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.js) [📝](https://github.com/djdu4496/algorithm/issues/1) [🧑🏻‍💼](https://www.youtube.com/watch?v=D8LAJXn5uqk)
