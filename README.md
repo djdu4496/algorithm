@@ -11,7 +11,7 @@ Lv.1
 - [x] [체육복](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js) [📝](https://github.com/djdu4496/algorithm/issues/4) [🧑🏻‍💼](https://www.youtube.com/watch?v=jcbD7kUQpmM&feature=youtu.be)
 
 Lv.2
-- [ ] [위장](#)
+- [x] [위장](#) [📝](https://github.com/djdu4496/algorithm/issues/5) [🧑🏻‍💼](https://www.youtube.com/watch?v=M8NpZcOvBSU&feature=youtu.be)
 - [ ] [전화번호 목록](#)
 - [ ] [기능개발](#)
 - [ ] [프린터](#)
