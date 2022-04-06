@@ -9,3 +9,5 @@ public class Test {
 		System.out.printf("%d", sum);
 	}
 }
+
+// 블로그 링크: https://cooing-silicon-7ae.notion.site/01-JAVA-2-29f051b226d74c0cb625665250aa34d0

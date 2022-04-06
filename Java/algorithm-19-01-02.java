@@ -24,3 +24,5 @@ public class Test {
         a.paint();
     }
 }
+
+// 블로그 링크: https://cooing-silicon-7ae.notion.site/01-JAVA-1-25d538bd45ae4d3991551ac6a08f6f30
