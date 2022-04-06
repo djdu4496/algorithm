@@ -18,3 +18,12 @@ Lv.2
 - [ ] [다리를 지나는 트럭](#)
 - [ ] [주식 가격](#)
 - [ ] [더 맵게](#)
+
+## 정보처리기사 실기 기출 `Java` `2022~`
+2019
+- [x] [1회 | 2번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-01-02.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-1-25d538bd45ae4d3991551ac6a08f6f30)
+- [x] [1회 | 3번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-01-03.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-2-29f051b226d74c0cb625665250aa34d0)
+- [x] [2회 | 2번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-02-02.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-2-cbe545d0af6442eab4ec6bbec2ea7343)
+- [x] [2회 | 3번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-02-03.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-3-a38d3bd760d5401491b1d31c5b6176b3)
+- [ ] [3회 | 2번]() [📝]()
+- [ ] [3회 | 3번]() [📝]()
