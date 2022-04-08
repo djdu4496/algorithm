@@ -26,10 +26,12 @@ Lv.2
 - [x] [1회 | 3번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-01-03.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-2-29f051b226d74c0cb625665250aa34d0)
 - [x] [2회 | 2번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-02-02.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-2-cbe545d0af6442eab4ec6bbec2ea7343)
 - [x] [2회 | 3번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-02-03.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-3-a38d3bd760d5401491b1d31c5b6176b3)
-- [ ] [3회 | 2번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-03-02.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-2-1e747c8c85b6482d8865b270249473d6)
+- [x] [3회 | 2번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-19-03-02.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-2-1e747c8c85b6482d8865b270249473d6)
+
 2018년도
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 2019년도
 - [x] [1회 | 4번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-19-01-04.c) [📝](https://cooing-silicon-7ae.notion.site/04-C-7dcc117c3c414d6cabf0bce9bce878ae)
 - [x] [2회 | 4번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-19-02-04.c) [📝](https://cooing-silicon-7ae.notion.site/04-C-4fd977e7682e42089524f7a9f1a46150)
-- [ ] [3회 | 3번]() [📝]()
+- [x] [3회 | 3번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-19-03-03.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-3-7caaa3336dba4e459f0f4a08cbc29cf9)
