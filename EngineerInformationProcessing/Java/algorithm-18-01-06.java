@@ -1,3 +1,5 @@
+// 2018년 1회 기사 실기 6번
+
 public class Test1 {
 	public static void main(String[] args) {
 		int E[] = { 95, 75, 85, 100, 50};
