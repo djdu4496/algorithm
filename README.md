@@ -31,7 +31,12 @@ Lv.2
 2018년도
 - [x] [1회 | 6번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-18-01-06.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-6-039add39cbc942d79f467e9651b3589e)
 - [x] [2회 | 6번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-18-02-06.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-6-e080a4af67784175a3c7069ad02c4429)
-- [ ] [3회 | 2번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-18-03-02.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-2-9cce907d5c9949fe95f50dc08c340cd5)
+- [x] [3회 | 2번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-18-03-02.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-2-9cce907d5c9949fe95f50dc08c340cd5)
+
+2017년도
+- [x] [1회 | 2번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-17-01-02.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-2-9b5d6c1099e34acf821dc29641a2733b)
+- [ ] [2회 | 3번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-17-02-03.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-3-f21be6c46a0a4ae38ec105a453c93ea1)
+- [ ] [3회 | 4번](https://github.com/djdu4496/algorithm/blob/master/Java/algorithm-17-03-04.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-4-679db95c2cae4cb1b3d23dac78f728b6)
 
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
@@ -44,5 +49,11 @@ Lv.2
 - [x] [1회 | 5번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-18-01-05.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-5-5b895513aedc49d59552aef4202d4250)
 - [x] [2회 | 4번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-18-02-04.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-4-e4d2ac16b60e4da7aa795363b778358f)
 - [x] [2회 | 7번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-18-02-07.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-7-a593eff821ad4765bb46d025a9c5f641)
-- [ ] [3회 | 3번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-18-03-03.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-3-2c5b79487ca449709e25c4d379a1a490)
+- [x] [3회 | 3번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-18-03-03.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-3-2c5b79487ca449709e25c4d379a1a490)
 - [ ] [3회 | 4번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-18-03-04.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-4-d738d97afb204edaadfb284b6dce0362)
+
+2017년도
+- [ ] [1회 | 16번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-01-16.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-16-51a5f352dc19462896a541204438f611)
+- [ ] [2회 | 1번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-02-01.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-1-2285c28e7af34ab9aae1c107244ccba2)
+- [ ] [3회 | 1번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-03-01.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-1-8c1f1bf590b14760828b0c56227e67ba)
+- [ ] [3회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-03-10.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-10-d567933a9a4c4bd5b8a0fd449b8e514c)
