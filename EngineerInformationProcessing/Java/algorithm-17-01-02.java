@@ -19,4 +19,4 @@ public class Test001 {
 	}
 }
 
-// 블로그 링크: https://cooing-silicon-7ae.notion.site/01-JAVA-2-9b5d6c1099e34acf821dc29641a2733bAVA-6-039add39cbc942d79f467e9651b3589e
+// 블로그 링크: https://cooing-silicon-7ae.notion.site/01-JAVA-2-9b5d6c1099e34acf821dc29641a2733b
