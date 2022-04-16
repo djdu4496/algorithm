@@ -21,6 +21,9 @@ Lv.2
 
 ## 정보처리기사 실기 기출 `2022~`
 ### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+2020년도
+- [ ] [1회 | 19번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-20-01-19.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-2-400e731238ad422f86b652f3b9f86425) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-19-491187c0914a40058f26deffa003f019)
+
 2019년도
 - [x] [1회 | 2번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-19-01-02.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-2-400e731238ad422f86b652f3b9f86425)
 - [x] [1회 | 3번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-19-01-03.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-3-10025e4c3e154381a9ad71adcafe2d75)
