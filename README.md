@@ -42,6 +42,8 @@ Lv.2
 - [x] [3회 | 4번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-17-03-04.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-4-0bb258723710484eae39c2be5971d955)
 
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+2020년도
+- [ ] [1회 | 12번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-20-01-12.c) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-2-400e731238ad422f86b652f3b9f86425) [📝](https://cooing-silicon-7ae.notion.site/01-C-12-2ead9c3a68d74939ac9dd8a3f3eaf801)
 
 2019년도
 - [x] [1회 | 4번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-19-01-04.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-4-e5fc15602fac4859a7bad2f6952aadd0)
