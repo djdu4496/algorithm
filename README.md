@@ -22,7 +22,9 @@ Lv.2
 ## 정보처리기사 실기 기출 `2022~`
 ### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 2020년도
-- [ ] [1회 | 19번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-20-01-19.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-2-400e731238ad422f86b652f3b9f86425) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-19-491187c0914a40058f26deffa003f019)
+- [x] [1회 | 13번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-20-01-13.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-13-491187c0914a40058f26deffa003f019)
+- [x] [1회 | 14번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-20-01-14.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-14-cdaafa800bae43d1bb59c59d3a697bcd)
+- [x] [2회 | 5번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-20-05-05.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-5-cc899bff4f294524beac4c661e23ff89)
 
 2019년도
 - [x] [1회 | 2번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-19-01-02.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-2-400e731238ad422f86b652f3b9f86425)

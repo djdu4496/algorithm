@@ -1,4 +1,4 @@
-// 2020년 1회 기사 실기 19번
+// 2020년 1회 기사 실기 13번
 
 public class Test {
     static int[ ] arr( ) {
@@ -15,4 +15,4 @@ public class Test {
             System.out.print(a[i] + " ");
     }
 		
-// 블로그 링크: https://cooing-silicon-7ae.notion.site/01-JAVA-19-491187c0914a40058f26deffa003f019
+// 블로그 링크: https://cooing-silicon-7ae.notion.site/01-JAVA-13-491187c0914a40058f26deffa003f019
