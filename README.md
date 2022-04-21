@@ -63,4 +63,4 @@ Lv.2
 - [x] [1회 | 16번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-01-16.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-16-3e251f4e84764fa69c1dda86b86c9402)
 - [x] [2회 | 1번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-02-01.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-1-99570be117224004a0f1825ae972c9d7)
 - [x] [3회 | 1번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-03-01.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-1-0d5a4bda82b449399aaadd57d978d637)
-- [x] [3회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-03-10.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-10-7a267e72970a4a1e8bf461b6ff3c2ed2)
+- [x] [3회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-03-10.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-10-7a267e72970a4a1e8bf461b6ff3c2ed2) 
