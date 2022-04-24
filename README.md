@@ -52,6 +52,7 @@ Lv.2
 - [x] [1회 | 12번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-20-01-12.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-12-2ead9c3a68d74939ac9dd8a3f3eaf801) 
 - [x] [3회 | 2번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-20-03-02.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-2-1-af192c3176364b5d96afe3c20583b6b6)
 - [x] [3회 | 14번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-20-03-14.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-14-0a86e3f2cfcc486e98b8ec97a7997422)
+
 2019년도
 - [x] [1회 | 4번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-19-01-04.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-4-e5fc15602fac4859a7bad2f6952aadd0)
 - [x] [2회 | 4번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-19-02-04.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-4-e7255617f6eb44eb9d84dd600f865065)
@@ -69,3 +70,12 @@ Lv.2
 - [x] [2회 | 1번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-02-01.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-1-99570be117224004a0f1825ae972c9d7)
 - [x] [3회 | 1번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-03-01.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-1-0d5a4bda82b449399aaadd57d978d637)
 - [x] [3회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-17-03-10.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-10-7a267e72970a4a1e8bf461b6ff3c2ed2) 
+
+### ![파이썬](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+
+2021년도
+- [x] [3회 | 14번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-03-14.py) [📝](https://cooing-silicon-7ae.notion.site/03-14-90d695ac5a13431babf504fddc9a46c4) 
+
+2020년도
+- [x] [2회 | 2번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-20-02-02.py) [📝](https://cooing-silicon-7ae.notion.site/02-2-cc3c7aaaba3846f89dc80e2770168309) 
+- [x] [4회 | 9번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-20-04-09.py) [📝](https://cooing-silicon-7ae.notion.site/04-9-64253c9153504b99bc6131e3aabeaeac) 
