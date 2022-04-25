@@ -1,4 +1,4 @@
-// 2021년 2회 기사 실기 18번
+// 2021년 2회 기사 실기 10번
 
 class ovr1 {
 	public stativ void main(String[] args) {

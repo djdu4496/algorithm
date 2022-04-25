@@ -24,7 +24,8 @@ Lv.2
 2021년도
 - [x] [1회 | 07번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-01-07.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-7-2303e65e7df04972a7976ad85dac5305)
 - [x] [1회 | 18번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-01-18.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-18-862ae73a8c1b43e0a36b8d331a515922)
-- [x] [2회 | 18번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-02-18.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-10-0663f7468de44eafb1dd3518efdcd93d)
+- [x] [2회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-02-10.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-10-0663f7468de44eafb1dd3518efdcd93d)
+- [x] [2회 | 16번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-02-16.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-16-c246275b40f9424bae9cb125cb5049f9)
 - [x] [3회 | 01번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-03-01.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-1-ba57ff5f95674618b4579c56d2813bdf)
 
 2020년도
@@ -58,6 +59,8 @@ Lv.2
 - [x] [1회 | 15번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-01-15.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-15-16b453c7904e47a889f69f80cd765d61)
 - [x] [2회 | 06번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-02-06.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-6-23ceeb026a26492aad3d8b7d35e01d4a)
 - [x] [2회 | 11번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-02-11.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-11-e95807c76f4342b783cc20c143522fd1)
+- [x] [3회 | 12번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-03-12.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-12-f807c2e3149a4628966d57d1d4771163)
+
 
 2020년도
 - [x] [1회 | 12번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-20-01-12.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-12-2ead9c3a68d74939ac9dd8a3f3eaf801) 
