@@ -11,4 +11,4 @@ void main(){                    // ①
 	printf("%d\n", *arr[1] + **arr + 1) // ⑦
 }
 
-// 블로그 링크: https://cooing-silicon-7ae.notion.site/03-C-12-f807c2e3149a4628966d57d1d4771163
+// 블로그 링크: https://cooing-silicon-7ae.notion.site/03-C-12-f807c2e3149a4628966d57d1d4771163d
