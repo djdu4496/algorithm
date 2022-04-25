@@ -60,6 +60,7 @@ Lv.2
 - [x] [2회 | 06번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-02-06.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-6-23ceeb026a26492aad3d8b7d35e01d4a)
 - [x] [2회 | 11번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-02-11.c) [📝](https://cooing-silicon-7ae.notion.site/02-C-11-e95807c76f4342b783cc20c143522fd1)
 - [x] [3회 | 12번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-03-12.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-12-f807c2e3149a4628966d57d1d4771163)
+- [x] [3회 | 17번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-21-03-17.c) [📝](https://cooing-silicon-7ae.notion.site/03-C-17-684b1256c80541d18aa641067cb68de7)
 
 
 2020년도
