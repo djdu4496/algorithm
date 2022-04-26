@@ -27,6 +27,8 @@ Lv.2
 - [x] [2회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-02-10.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-10-0663f7468de44eafb1dd3518efdcd93d)
 - [x] [2회 | 16번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-02-16.java) [📝](https://cooing-silicon-7ae.notion.site/02-JAVA-16-c246275b40f9424bae9cb125cb5049f9)
 - [x] [3회 | 01번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-03-01.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-1-ba57ff5f95674618b4579c56d2813bdf)
+- [x] [3회 | 11번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-03-11.java) [📝](https://cooing-silicon-7ae.notion.site/03-JAVA-11-03a4aae47f2d4778b2ce01a0c0e0d0fd)
+
 
 2020년도
 - [x] [1회 | 13번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-20-01-13.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-13-491187c0914a40058f26deffa003f019)
