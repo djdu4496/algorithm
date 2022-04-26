@@ -1,12 +1,13 @@
 // NCS 천기누설 예상문제 20번
 
-public class Soojebi {
-	public static void main(String[] args){ // ①
-		String s = "red";                     // ②
-		boolean [] b = new boolean[1];        // ③
-		if(b[0]) s = "blue";                  // ④
-		System.out.println(s);                // ⑤
-	}
+#include <stdio.h>
+int fn(int n){           // ③
+	if( n <= 0 ) return 0; // Base case - 문제를 더 이상 쪼갤 수 없는 경우(재귀의 기초)
+	return n +fn(n - 1)    // Recursive Case - 그렇지 않은 경우
+}
+
+void main() {            // ①
+	printf("%d", fn(12))   // ②
 }
 		
-// 블로그 링크: https://cooing-silicon-7ae.notion.site/NCS-JAVA-20-16b1547a55e84dbda44dd2db90784f34
+// 블로그 링크: https://cooing-silicon-7ae.notion.site/NCS-JAVA-20-79df29ebe4bc4735ac1c55e3daacb657

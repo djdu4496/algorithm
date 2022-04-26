@@ -61,7 +61,8 @@ Lv.2
 - [x] [1회 | 06번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-ncs-06.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-06-351138458bd64ec8a9f0919f7d8f02ec)
 - [x] [1회 | 13번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-ncs-13.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-13-39022dc6da284cd294ee7c7ff864ea4e)
 - [x] [1회 | 14번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-ncs-14.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-14-0a41f80cf8724b2da4285930508aa52e)
-- [x] [1회 | 20번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-ncs-20.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-20-16b1547a55e84dbda44dd2db90784f34)
+- [x] [1회 | 19번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-ncs-19.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-19-16b1547a55e84dbda44dd2db90784f34)
+- [x] [1회 | 20번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-ncs-20.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-20-79df29ebe4bc4735ac1c55e3daacb657)
 
 
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -112,6 +113,8 @@ Lv.2
 - [x] [1회 | 17번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-17.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-17-51c079a8a37745e3a326ccbbc42c4b73)
 - [x] [1회 | 18번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-18.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-18-3e3d370bf3cc4e4ba0a6af77174b9755)
 - [x] [1회 | 19번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-19.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-19-79df29ebe4bc4735ac1c55e3daacb657)
+- [x] [1회 | 21번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-21.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-21-744b95c2a54c4914bf7eb1ff21cca16c)
+- [x] [1회 | 22번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-22.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-22-996cc7a719b641a6a1df3d8db7351701)
 
 ### ![파이썬](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 
