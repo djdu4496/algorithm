@@ -64,6 +64,12 @@ Lv.2
 - [x] [1회 | 19번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-ncs-19.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-19-16b1547a55e84dbda44dd2db90784f34)
 - [x] [1회 | 20번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-ncs-20.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-20-79df29ebe4bc4735ac1c55e3daacb657)
 
+단원종합문제
+- [x] [1회 | 17번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-total-17.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-17-b588aaa930a547a08ef537128b213143)
+- [x] [1회 | 18번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-total-18.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-18-87e1d5cd21b14989aa62dd806e9f6581)
+- [x] [1회 | 19번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-total-19.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-19-4d335bd21fa14f6db63d643ce0a7f203)
+- [x] [1회 | 22번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-total-22.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-22-4358106488214336b1df12a076bbae0e)
+- [x] [1회 | 25번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-total-25.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-JAVA-25-ff411241ce124c96afb8c91ca2d7f186)
 
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 2021년도
@@ -115,6 +121,24 @@ Lv.2
 - [x] [1회 | 19번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-19.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-19-79df29ebe4bc4735ac1c55e3daacb657)
 - [x] [1회 | 21번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-21.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-21-744b95c2a54c4914bf7eb1ff21cca16c)
 - [x] [1회 | 22번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-22.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-22-996cc7a719b641a6a1df3d8db7351701)
+- [x] [2회 | 05번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-ncs-05.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-05-2-8bf4b990f1644622b401222aa9abcc11)
+
+단원종합문제
+- [x] [1회 | 02번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-02.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-02-d185876b57a84ca0892ec8e220e73114)
+- [x] [1회 | 03번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-03.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-03-e3c857c0317342cf9b7d6fc4b40772bb)
+- [x] [1회 | 04번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-04.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-04-585a7fe4963642478798e012041de1b4)
+- [x] [1회 | 05번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-05.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-05-1-7409c8d90b084b77a3b68bd1c6b97c95)
+- [x] [1회 | 06번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-06.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-06-3a012d52f05940b7b1430c7910b06cf0)
+- [x] [1회 | 08번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-08.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-08-754530dee7084f22b547a075e5a89d3f)
+- [x] [1회 | 09번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-09.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-09-2d36c245be1b4eae84ef48e8dbdc09a3)
+- [x] [1회 | 11번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-11.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-11-b08fc0af46da496d92e2c05090c662a5)
+- [x] [1회 | 12번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-12.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-12-4a5676a437e343fdace2e2dd6017b4ea)
+- [x] [1회 | 13번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-13.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-13-c75e4b8b6dc043dcb6637932819be212)
+- [x] [1회 | 16번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-16.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-16-5f59a6a1837c45d9af36176e3fd1807e)
+- [x] [1회 | 21번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-21.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-16-5f59a6a1837c45d9af36176e3fd1807e)
+- [x] [1회 | 23번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-23.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-23-b1c3c1b663c8439b8f0b6c6a012c84b9)
+- [x] [1회 | 24번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-24.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-24-1325f6d98d144613a80549b19d0d9a89)
+- [x] [1회 | 26번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-26.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-26-3357f2ded505496ba150efaf73765463)
 
 ### ![파이썬](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 
@@ -129,3 +153,10 @@ Lv.2
 
 예상문제
 - [x] [1회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-ncs-10.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-10-dafaf45fdccd4d04826ab7cd6270a6e0)
+
+단원종합문제
+- [x] [1회 | 07번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-total-07.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-07-1125e390cf10437a8be9703ae29d0a13)
+- [x] [1회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-total-10.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-10-e8fb010ea48247eea51784baf7b67f1e)
+- [x] [1회 | 14번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-total-14.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-14-921a2aa7e28f4bf9b85ba841202c9051)
+- [x] [1회 | 15번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-total-15.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-15-158441e2fe584365bf10a50706dc640c)
+- [x] [1회 | 20번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-total-20.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-20-b329570698ca4c98921b7d2c811c4436)

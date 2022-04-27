@@ -1,16 +1,12 @@
-// NCS 천기누설 예상문제 21번
+// NCS 천기누설 예상문제 2단원 05번
 
 #include <stdio.h>
-int main(int argc, char *argv[]){     // ①
-	int a[2][2] = {{11, 22}, {44, 55}}; // ②
-	int i, sum = 0;                     // ③
-	int *p;                             // ④
-	p = a[0];                           // ⑤
-	for(i = 1; i < 4; i++){             // ⑥
-		sum += *(p + i);	                // ⑦
-	printf("%d", sum);                  // ⑧
-	return 0;        
-	}
+#include <String.h>
+void main() {              // ① 
+	char str[50] = "nation"; // ②
+	char *p2 = "alter";      // ③
+	strcat(str, p2);         // ④
+	printf("%s", str);       // ⑤
 }
 		
-// 블로그 링크: https://cooing-silicon-7ae.notion.site/NCS-C-22-996cc7a719b641a6a1df3d8db7351701
+// 블로그 링크: https://cooing-silicon-7ae.notion.site/NCS-C-05-2-8bf4b990f1644622b401222aa9abcc11
