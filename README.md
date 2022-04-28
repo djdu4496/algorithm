@@ -140,6 +140,9 @@ Lv.2
 - [x] [1회 | 24번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-24.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-24-1325f6d98d144613a80549b19d0d9a89)
 - [x] [1회 | 26번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-total-26.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-26-3357f2ded505496ba150efaf73765463)
 
+최종모의고사
+- [x] [1회 | 26번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-last-01-05.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-05-51555bf244344c2882c6558b5b88dcf3)
+
 ### ![파이썬](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 
 2021년도
