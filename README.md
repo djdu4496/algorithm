@@ -193,3 +193,7 @@ Lv.2
 - [x] [1회 | 14번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-total-14.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-14-921a2aa7e28f4bf9b85ba841202c9051)
 - [x] [1회 | 15번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-total-15.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-15-158441e2fe584365bf10a50706dc640c)
 - [x] [1회 | 20번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-total-20.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-Python-20-b329570698ca4c98921b7d2c811c4436)
+
+최종모의고사
+- [x] [1회 | 13번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-last-01-13.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-Python-13-4e2b63b103a448be948586c12a08c445)
+- [x] [1회 | 15번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-last-01-15.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-Python-15-bffbef58e1b3498c90af7698418d2f3d)
