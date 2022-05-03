@@ -87,6 +87,8 @@ Lv.2
 
 - [x] [1회 | 10번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-01-10.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-JAVA-10-c0ae6e59f3884ba9a43f58094a78c95d)
 - [x] [1회 | 16번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-01-16.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-JAVA-16-65a74516ea064632922ee0cde99f048e)
+- [x] [2회 | 07번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-02-07.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-2-JAVA-07-f07b034780ae48abbf6a074a87f3920a)
+- [x] [2회 | 08번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-02-08.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-2-JAVA-08-f82a3a3fa507479a8df2ab45c54a43de)
 
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 

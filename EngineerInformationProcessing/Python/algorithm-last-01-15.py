@@ -1,6 +1,6 @@
 # NCS 천기누설 최종모의고사 1회 15번
 
-class FourCal:                 # ④ FourCal 클래스 선언
+class FourCal:                 # FourCal 클래스 선언
 	def setdata(sel, fir, sec):  # ③
 		sel.fir = fir              # ④
 		sel.sec = sec              # ⑤
