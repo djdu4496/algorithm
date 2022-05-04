@@ -89,6 +89,7 @@ Lv.2
 - [x] [1회 | 16번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-01-16.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-JAVA-16-65a74516ea064632922ee0cde99f048e)
 - [x] [2회 | 07번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-02-07.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-2-JAVA-07-f07b034780ae48abbf6a074a87f3920a)
 - [x] [2회 | 08번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-02-08.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-2-JAVA-08-f82a3a3fa507479a8df2ab45c54a43de)
+- [x] [3회 | 08번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-03-08.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-JAVA-08-32e50126d8eb452088aa033427cbc5f0)
 
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
@@ -199,3 +200,4 @@ Lv.2
 최종모의고사
 - [x] [1회 | 13번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-last-01-13.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-Python-13-4e2b63b103a448be948586c12a08c445)
 - [x] [1회 | 15번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-last-01-15.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-Python-15-bffbef58e1b3498c90af7698418d2f3d)
+- [x] [3회 | 06번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-last-03-06.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-Python-06-13a7ffd5f5e64f0daed540fb43275246)
