@@ -171,6 +171,10 @@ Lv.2
 
 - [x] [1회 | 05번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-last-01-05.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-C-05-51555bf244344c2882c6558b5b88dcf3)
 - [x] [1회 | 11번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-last-01-11.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-C-11-dd9df3d12b6643b4b8734da0b47743f5)
+- [x] [3회 | 09번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-last-03-09.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-C-09-5cfd280f7ce44482b52212f4ddc492a9)
+- [x] [3회 | 18번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-last-03-18.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-C-18-e97c6466005e458d80a61561db2ff6af)
+
+
 
 ### ![파이썬](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 
