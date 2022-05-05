@@ -1,25 +1,25 @@
 // 2020년 2회 기사 실기 19번
 
-class	A	{ // ⑥
-	private int	a; // ⑦
-	public A(int	a)	{ // ⑧
-		this.a	=	a; // ⑨
+class	A	{ 
+	private int	a;
+	public A(int a)	{                          // ⑤
+		this.a = a;                              // ⑥
 	}
-	void	display(){ // ⑪
-		System.out.println("a="+a); // ⑫
-	}
-}
-
-class	B	extends	A	{ // ⑧
-	public	B(int	a)	{ // ④
-		super(a); // ⑤
-		super.display(); // ⑩
+	void display(){                            // ⑧
+		System.out.println("a="+a);              // ⑨
 	}
 }
 
-public class	Main	{ // ①
-	public	static	void	main(String[]	args){ // ②
-		B	obj	=	new	B(10); // ③
+class	B extends	A	{ 
+	public B(int a)	{                          // ③
+		super(a);                                // ④
+		super.display();                         // ⑦
+	}
+}
+
+public class	Main	{ 
+	public	static	void	main(String[]	args){ // ①
+		B obj = new B(10);                       // ②
 	}
 }
 		
