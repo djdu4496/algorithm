@@ -3,18 +3,18 @@
 abstract class Vehicle {
 	private String name;
 	abstract public String getName(String val);
-	public String getName() {          // ⑨
-		return "Vehicle name:" + name;   // ⑩
+	public String getName() {                   // ⑧
+		return "Vehicle name:" + name;            // ⑨
 	}
 
-	public void setName(String val){   // ⑥ 
-		name = val;                      // ⑦
+	public void setName(String val){            // ⑤ 
+		name = val;                               // ⑥
 	}
 }
 
-class Car extends Vehicle {
-	public Car(String val) {           // ④
-		setName(val);                    // ⑤
+class Car extends Vehicle {                  
+	public Car(String val) {                    // ③
+		setName(val);                             // ④
 	}
 
 	public String getName(String val) {
@@ -23,9 +23,9 @@ class Car extends Vehicle {
 }
 
 public class Test {
-	public static void main(String[] args) {
-		Vehicle obj = new Car("Spark");  // ③
-		System.out.print(obj.getName()); // ⑧
+	public static void main(String[] args) {    // ①
+		Vehicle obj = new Car("Spark");           // ②
+		System.out.print(obj.getName());          // ⑦
 	}
 }
 		
