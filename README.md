@@ -27,6 +27,10 @@ Lv.2
 
 ### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+2022년도
+- [x] [1회 | 03번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-22-01-03.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-3-fc907a36a73746b3a3d6951d90b14eb5)
+- [x] [1회 | 11번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-22-01-11.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-11-1136b3e2c1a940398d39f51acc4a1e50)
+
 2021년도
 
 - [x] [1회 | 07번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-21-01-07.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-7-2303e65e7df04972a7976ad85dac5305)
@@ -92,6 +96,11 @@ Lv.2
 - [x] [3회 | 08번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-03-08.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-JAVA-08-32e50126d8eb452088aa033427cbc5f0)
 
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+2022년도
+- [x] [1회 | 14번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-22-01-14.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-14-eea346b9442e4ea6aa2ab7bcbf27ab27)
+- [x] [1회 | 15번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-22-01-15.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-15-0a0682640f8c4e7fac5c93eae71ac42d)
+- [x] [1회 | 19번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-22-01-19.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-19-9ebc5c1f10834dd2b48566286cbc0933)
 
 2021년도
 
@@ -177,6 +186,9 @@ Lv.2
 
 
 ### ![파이썬](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+
+2022년도
+- [x] [1회 | 05번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-22-01-06.py) [📝](https://cooing-silicon-7ae.notion.site/01-6-2858d81159fe4cd3802652e2126dc26c)
 
 2021년도
 
