@@ -6,14 +6,24 @@
 
 ### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Lv.1
+<details>
+
+  <summary>Lv.1</summary>
+  <div markdown="1">       
+
 
 - [x] [완주하지 못한 선수](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.js) [📝](https://github.com/djdu4496/algorithm/issues/1) [🧑🏻‍💼](https://www.youtube.com/watch?v=D8LAJXn5uqk)
 - [x] [K번째 수](https://github.com/djdu4496/algorithm/blob/master/Programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.js) [📝](https://github.com/djdu4496/algorithm/issues/2) [🧑🏻‍💼](https://www.youtube.com/watch?v=5mS3Kn-YERU)
 - [x] [모의고사](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js) [📝](https://github.com/djdu4496/algorithm/issues/3) [🧑🏻‍💼](https://www.youtube.com/watch?v=Hc1_pDAQ06I)
 - [x] [체육복](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js) [📝](https://github.com/djdu4496/algorithm/issues/4) [🧑🏻‍💼](https://www.youtube.com/watch?v=jcbD7kUQpmM&feature=youtu.be)
 
-Lv.2
+  </div>
+</details>
+
+<details>
+
+  <summary>Lv.2</summary>
+  <div markdown="1">   
 
 - [x] [위장](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%9C%84%EC%9E%A5.js) [📝](https://github.com/djdu4496/algorithm/issues/5) [🧑🏻‍💼](https://www.youtube.com/watch?v=M8NpZcOvBSU&feature=youtu.be)
 - [ ] [전화번호 목록](#)
@@ -23,11 +33,21 @@ Lv.2
 - [ ] [주식 가격](#)
 - [ ] [더 맵게](#)
 
+  </div>
+</details>
+
 ## 정보처리기사 실기 기출 `2022~`
 
 ### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+<details>
+
+  <summary>자세히 보기</summary>
+  <div markdown="1">       
+
+    
 2022년도
+    
 - [x] [1회 | 03번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-22-01-03.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-3-fc907a36a73746b3a3d6951d90b14eb5)
 - [x] [1회 | 11번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-22-01-11.java) [📝](https://cooing-silicon-7ae.notion.site/01-JAVA-11-1136b3e2c1a940398d39f51acc4a1e50)
 
@@ -95,7 +115,15 @@ Lv.2
 - [x] [2회 | 08번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-02-08.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-2-JAVA-08-f82a3a3fa507479a8df2ab45c54a43de)
 - [x] [3회 | 08번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Java/algorithm-last-03-08.java) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-JAVA-08-32e50126d8eb452088aa033427cbc5f0)
 
+  </div>
+</details>
+
 ### ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+<details>
+
+  <summary>자세히 보기</summary>
+  <div markdown="1">  
 
 2022년도
 - [x] [1회 | 14번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/C/algorithm-22-01-14.c) [📝](https://cooing-silicon-7ae.notion.site/01-C-14-eea346b9442e4ea6aa2ab7bcbf27ab27)
@@ -183,9 +211,15 @@ Lv.2
 - [x] [3회 | 09번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-last-03-09.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-C-09-5cfd280f7ce44482b52212f4ddc492a9)
 - [x] [3회 | 18번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/c/algorithm-last-03-18.c) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-C-18-e97c6466005e458d80a61561db2ff6af)
 
-
+  </div>
+</details>
 
 ### ![파이썬](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+
+<details>
+
+  <summary>자세히 보기</summary>
+  <div markdown="1">  
 
 2022년도
 - [x] [1회 | 05번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-22-01-06.py) [📝](https://cooing-silicon-7ae.notion.site/01-6-2858d81159fe4cd3802652e2126dc26c)
@@ -217,3 +251,6 @@ Lv.2
 - [x] [1회 | 13번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-last-01-13.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-Python-13-4e2b63b103a448be948586c12a08c445)
 - [x] [1회 | 15번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-last-01-15.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-1-Python-15-bffbef58e1b3498c90af7698418d2f3d)
 - [x] [3회 | 06번](https://github.com/djdu4496/algorithm/blob/master/EngineerInformationProcessing/Python/algorithm-last-03-06.py) [📝](https://cooing-silicon-7ae.notion.site/NCS-3-Python-06-13a7ffd5f5e64f0daed540fb43275246)
+
+  </div>
+</details>
