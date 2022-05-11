@@ -36,7 +36,7 @@
   </div>
 </details>
 
-## 정보처리기사 실기 기출 `2022~`
+## 정보처리기사 실기 기출
 
 ### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
