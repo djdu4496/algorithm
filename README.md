@@ -12,10 +12,10 @@
   <div markdown="1">       
 
 
-- [x] [완주하지 못한 선수](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.js) [📝](https://github.com/djdu4496/algorithm/issues/1) [🧑🏻‍💼](https://www.youtube.com/watch?v=D8LAJXn5uqk)
-- [x] [K번째 수](https://github.com/djdu4496/algorithm/blob/master/Programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.js) [📝](https://github.com/djdu4496/algorithm/issues/2) [🧑🏻‍💼](https://www.youtube.com/watch?v=5mS3Kn-YERU)
-- [x] [모의고사](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js) [📝](https://github.com/djdu4496/algorithm/issues/3) [🧑🏻‍💼](https://www.youtube.com/watch?v=Hc1_pDAQ06I)
-- [x] [체육복](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js) [📝](https://github.com/djdu4496/algorithm/issues/4) [🧑🏻‍💼](https://www.youtube.com/watch?v=jcbD7kUQpmM&feature=youtu.be)
+- [x] [해시 | 완주하지 못한 선수](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.js) [📝](https://github.com/djdu4496/algorithm/issues/1) [🧑🏻‍💼](https://www.youtube.com/watch?v=D8LAJXn5uqk)
+- [x] [정렬 | K번째 수](https://github.com/djdu4496/algorithm/blob/master/Programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.js) [📝](https://github.com/djdu4496/algorithm/issues/2) [🧑🏻‍💼](https://www.youtube.com/watch?v=5mS3Kn-YERU)
+- [x] [완전탐색 | 모의고사](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js) [📝](https://github.com/djdu4496/algorithm/issues/3) [🧑🏻‍💼](https://www.youtube.com/watch?v=Hc1_pDAQ06I)
+- [x] [탐욕법(Greedy) | 체육복](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js) [📝](https://github.com/djdu4496/algorithm/issues/4) [🧑🏻‍💼](https://www.youtube.com/watch?v=jcbD7kUQpmM&feature=youtu.be)
 
   </div>
 </details>
@@ -25,14 +25,22 @@
   <summary>Lv.2</summary>
   <div markdown="1">   
 
-- [x] [위장](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%9C%84%EC%9E%A5.js) [📝](https://github.com/djdu4496/algorithm/issues/5) [🧑🏻‍💼](https://www.youtube.com/watch?v=M8NpZcOvBSU&feature=youtu.be)
-- [ ] [전화번호 목록](#)
+- [x] [해시 | 위장](https://github.com/djdu4496/algorithm/blob/master/Programmers/%EC%9C%84%EC%9E%A5.js) [📝](https://github.com/djdu4496/algorithm/issues/5) [🧑🏻‍💼](https://www.youtube.com/watch?v=M8NpZcOvBSU&feature=youtu.be)
+- [ ] [해시 | 전화번호 목록](#)
 - [ ] [기능개발](#)
 - [ ] [프린터](#)
 - [ ] [다리를 지나는 트럭](#)
 - [ ] [주식 가격](#)
-- [ ] [더 맵게](#)
-
+- [ ] [힙(Heap) | 더 맵게](#)
+- [ ] [정렬 | 가장 큰 수](#)
+- [ ] [정렬 | H-Index](#)
+- [ ] [완전탐색 | 소수 찾기](#)
+- [ ] [완전탐색 | 카펫](#)
+- [ ] [탐욕법(Greedy) | 조이스틱](#)
+- [ ] [탐욕법(Greedy) | 큰 수 만들기](#)
+- [ ] [탐욕법(Greedy) | 구명보트](#)
+- [ ] [깊이/너비 우선 탐색(DFS/BFS) | 타겟 넘버](#)
+    
   </div>
 </details>
 
