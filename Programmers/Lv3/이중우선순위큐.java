@@ -3,40 +3,44 @@ import java.util.PriorityQueue;
 class Solution {
     public int[] solution(String[] operations) {
         // 이중 우선순위 큐 = 우선 순위 큐 두 개
-        // 1. 내림차순 정렬 - [5, 4, 3, 2, 1, 0] 0(최소값)부터 삭제
-        // 2. 오름차순 정렬 - [0, 1, 2, 3, 4, 5] 5(최대값)부터 삭제
-        PriorityQueue<Integer> pqMin = new PriorityQueue<Integer>();
-        PriorityQueue<Integer> pqMax = new PriorityQueue<Integer>(Collections.reverseOrder());
-        // ["I 16", "D 1"] - 16 삽입, 최대값 삭제
+        // 1. 최소 힙(minHeap) - 최소값 제거
+        // 2. 최대 힙(maxHeap) - 최대값 제거
+        PriorityQueue<Integer> minHeap = new PriorityQueue<Integer>();
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<Integer>(Collections.reverseOrder());
+        // ["I 16", "D 1"] - 16 삽입, 최대값 제거
         // 명령어 종류, 값
         String[] strCommand = new String[2];
         for(int i=0; i<operations.length; i++) {
             strCommand = operations[i].split(" ");
+            // 앞 명령어가 'I'일 경우, 두 힙에 값 추가
             if("I".equals(strCommand[0])) {
-                pqMin.offer(Integer.parseInt(strCommand[1]));
-                pqMax.offer(Integer.parseInt(strCommand[1]));
-            } else { // D
+                minHeap.offer(Integer.parseInt(strCommand[1]));
+                maxHeap.offer(Integer.parseInt(strCommand[1]));
+            } else { // 앞 명령어가 'D'
+                // 뒷 명령어가 1
                 if("1".equals(strCommand[1])) {
-                    // 최댓값 삭제
-                    if(!pqMax.isEmpty()) {
-                        int max = pqMax.poll();
-                        pqMin.remove(max);
+                    // 최대값 제거 
+                    if(!maxHeap.isEmpty()) {
+                        int max = maxHeap.poll();
+                        minHeap.remove(max);
                     }
+                // 뒷 명령어가 '-1'
                 } else if("-1".equals(strCommand[1]))
                     // 최솟값 삭제
-                    if(!pqMin.isEmpty()) {
-                        int min = pqMin.poll();
-                        pqMax.remove(min);
+                    if(!minHeap.isEmpty()) {
+                        int min = minHeap.poll();
+                        maxHeap.remove(min);
                     }
             }
         }
         int[] answer = new int[2];
-        if(pqMin.isEmpty() && pqMax.isEmpty()) {
+        // 최대 힙, 최소 힙이 비어 있으면 [0,0] 반환
+        if(minHeap.isEmpty() && maxHeap.isEmpty()) {
             answer[0] = 0;
             answer[1] = 0;
-        } else {
-            answer[0] = pqMax.poll();
-            answer[1] = pqMin.poll();
+        } else { // 최댓값, 최솟값 제거하여 배열에 저장 후 반환
+            answer[0] = maxHeap.poll();
+            answer[1] = minHeap.poll();
         }
         return answer;
     }
@@ -68,7 +72,7 @@ class Solution {
 // *최소 힙 구성 함수(minHeapify)
     // (상향식) 부모 노드로 거슬러 올라감. 부모보다 자신이 더 작은 경우 위치 교체
 // *Collection.reverseOrder() - 최댓값 기준 우선순위 큐를 만듦
-// *remove : 제거, *poll: 가장 우선순위 높은 데이터 추출(제거)
+// *remove : 제거, *poll: 가장 우선순위 높은 데이터 제거
 // *offer: 값 생성 
 
 // *시간 복잡도 - 입력 크기(n)가 커질 때, 알고리즘의 실행 시간이 얼마나 증가하는지 수학적으로 표현한 것
