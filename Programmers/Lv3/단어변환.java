@@ -32,14 +32,14 @@ class Solution {
     private boolean canTransform(String from, String to) {
         int diffNumbers = 0;                            // 문자 차이 변수 초기화
         for(int i=0;i<from.length();i++) {
-            if(from.charAt(i) != to.charAt(i)) {
+            if(from.charAt(i) != to.charAt(i)) {        // 다른 문자 발견 될 때 마다 증가
                 diffNumbers++;
             }
         }
-        if(diffNumbers>1 || diffNumbers==0) {
+        if(diffNumbers>1) {                             // 문자 차이가 1 초과 시 변환 불가
             return false;
         }
-        return true;
+        return diffNumbers == 1;                        // 문자 차이가 1인 경우만 변환 가능
     }
 }
 
