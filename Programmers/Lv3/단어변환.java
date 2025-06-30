@@ -55,4 +55,3 @@ class Solution {
 // *ArrayList가 아닌, LinkedList
     // 비효율적 - ArrayList는 앞쪽 요소를 제거하면 나머지를 모두 한 칸씩 당겨야 하기 때문.
     // LinkedList는 노드 기반이라 앞뒤 삽입/삭제가 O(1).
-
